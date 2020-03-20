@@ -6,7 +6,7 @@
 #include <string>
 
 
-int main()
+int main() 
 {
     std::cout << "FT service manipulation program\n";
 	std::cout << "(type '?' to help, 'x' - to exit)\n";
